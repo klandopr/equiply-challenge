@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/calculate-velocity", "destination": "/api/calculate-velocity" }
+  ]
+}
